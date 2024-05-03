@@ -1,0 +1,744 @@
+-------------------------
+make      
+gcc -Wall -Wextra -g -c FLAPS.c
+gcc -Wall -Wextra -g -o FLAPS FLAPS.o
+-------------------------
+./FLAPS        
+PID: 1
+PID: 2
+PID: 3
+PID: 4
+PID: 5
+PID: 6
+PID: 7
+PID: 8
+PID: 9
+PID: 10
+PID: 11
+PID: 12
+PID: 13
+PID: 14
+PID: 15
+PID: 16
+PID: 17
+PID: 18
+PID: 19
+PID: 20
+PID: 21
+PID: 22
+PID: 23
+PID: 24
+PID: 25
+PID: 26
+PID: 27
+PID: 28
+PID: 29
+PID: 30
+PID: 31
+PID: 32
+PID: 33
+PID: 34
+PID: 35
+PID: 36
+PID: 37
+PID: 38
+PID: 39
+PID: 40
+PID: 41
+PID: 42
+PID: 43
+PID: 44
+PID: 45
+PID: 46
+PID: 47
+PID: 48
+PID: 49
+PID: 50
+PID: 51
+PID: 52
+PID: 53
+PID: 54
+PID: 55
+PID: 56
+PID: 57
+PID: 58
+PID: 59
+PID: 60
+PID: 61
+PID: 62
+PID: 64
+PID: 65
+PID: 66
+PID: 67
+PID: 68
+PID: 69
+PID: 70
+PID: 71
+PID: 72
+PID: 73
+PID: 74
+PID: 75
+PID: 76
+PID: 77
+PID: 78
+PID: 79
+PID: 80
+PID: 81
+PID: 82
+PID: 83
+PID: 84
+PID: 85
+PID: 86
+PID: 87
+PID: 88
+PID: 89
+PID: 90
+PID: 91
+PID: 93
+PID: 95
+PID: 100
+PID: 102
+PID: 103
+PID: 104
+PID: 105
+PID: 106
+PID: 107
+PID: 112
+PID: 114
+PID: 195
+PID: 206
+PID: 207
+PID: 232
+PID: 233
+PID: 234
+PID: 235
+PID: 236
+PID: 237
+PID: 238
+PID: 272
+PID: 291
+PID: 292
+PID: 300
+PID: 301
+PID: 304
+PID: 305
+PID: 306
+PID: 307
+PID: 308
+PID: 309
+PID: 310
+PID: 311
+PID: 312
+PID: 313
+PID: 314
+PID: 318
+PID: 320
+PID: 321
+PID: 322
+PID: 363
+PID: 364
+PID: 365
+PID: 423
+PID: 459
+PID: 465
+PID: 519
+PID: 523
+PID: 524
+PID: 569
+PID: 570
+PID: 572
+PID: 575
+PID: 580
+PID: 581
+PID: 640
+PID: 642
+PID: 670
+PID: 671
+PID: 682
+PID: 683
+PID: 685
+PID: 686
+PID: 687
+PID: 693
+PID: 694
+PID: 725
+PID: 756
+PID: 757
+PID: 811
+PID: 827
+PID: 840
+PID: 871
+PID: 981
+PID: 1031
+PID: 1060
+PID: 1207
+PID: 1269
+PID: 1408
+PID: 1423
+PID: 1429
+PID: 1444
+PID: 1445
+PID: 1446
+PID: 1448
+PID: 1450
+PID: 1459
+PID: 1490
+PID: 1498
+PID: 1502
+PID: 1515
+PID: 1532
+PID: 1582
+PID: 1605
+PID: 1612
+PID: 1622
+PID: 1623
+PID: 1636
+PID: 1646
+PID: 1648
+PID: 1683
+PID: 1713
+PID: 1742
+PID: 1749
+PID: 1779
+PID: 1789
+PID: 1801
+PID: 1821
+PID: 1822
+PID: 1823
+PID: 1826
+PID: 1827
+PID: 1828
+PID: 1832
+PID: 1834
+PID: 1837
+PID: 1841
+PID: 1842
+PID: 1844
+PID: 1845
+PID: 1846
+PID: 1849
+PID: 1854
+PID: 1861
+PID: 1867
+PID: 1870
+PID: 1873
+PID: 1877
+PID: 1885
+PID: 1935
+PID: 1984
+PID: 2024
+PID: 2025
+PID: 2028
+PID: 2032
+PID: 2070
+PID: 2071
+PID: 2081
+PID: 2085
+PID: 2104
+PID: 2113
+PID: 2123
+PID: 2132
+PID: 2138
+PID: 2148
+PID: 2158
+PID: 2228
+PID: 2314
+PID: 2320
+PID: 2321
+PID: 2322
+PID: 2324
+PID: 2326
+PID: 2332
+PID: 2333
+PID: 2335
+PID: 2355
+PID: 2357
+PID: 2361
+PID: 2376
+PID: 2382
+PID: 2385
+PID: 2390
+PID: 2467
+PID: 2504
+PID: 2507
+PID: 2517
+PID: 2562
+PID: 2583
+PID: 2594
+PID: 2614
+PID: 2635
+PID: 2664
+PID: 2680
+PID: 2787
+PID: 2791
+PID: 2842
+PID: 2875
+PID: 2901
+PID: 2942
+PID: 2978
+PID: 3041
+
+
+----------------------
+
+./FLAPS -a 12
+PID: 12
+--------- Command Name ---------
+
+
+
+--------- Status Information ---------
+Name:	kworker/R-mm_pe
+Umask:	0000
+State:	I (idle)
+Tgid:	12
+Ngid:	0
+Pid:	12
+PPid:	2
+TracerPid:	0
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+NStgid:	12
+NSpid:	12
+NSpgid:	0
+NSsid:	0
+Kthread:	1
+Threads:	1
+SigQ:	1/30450
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	ffffffffffffffff
+SigCgt:	0000000000000000
+CapInh:	0000000000000000
+CapPrm:	000001ffffffffff
+CapEff:	000001ffffffffff
+CapBnd:	000001ffffffffff
+CapAmb:	0000000000000000
+NoNewPrivs:	0
+Seccomp:	0
+Seccomp_filters:	0
+Speculation_Store_Bypass:	thread vulnerable
+SpeculationIndirectBranch:	conditional enabled
+Cpus_allowed:	ff
+Cpus_allowed_list:	0-7
+Mems_allowed:	00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000000,00000001
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	2
+nonvoluntary_ctxt_switches:	0
+
+
+
+--------- Memory Information ---------
+Memory Usage: Size: 0 KB, Resident: 0 KB
+
+
+
+--------- CPU Information ---------
+CPU Usage: User Time: 0, System Time: -1
+
+
+
+--------- Line Arguments ---------
+
+
+
+--------- Start Time and Uptime ---------
+Start Time: 1714727843 seconds ago
+
+
+
+--------- Environment Variables ---------
+
+
+
+--------- Open File Descriptors ---------
+
+
+
+--------- Process Group and Session Information ---------
+Uid:	0	0	0	0
+Gid:	0	0	0	0
+FDSize:	64
+Groups:	 
+
+
+-----------------------------
+./FLAPS -t   
+Process Tree for Session Leader (PID: 2901):
+|-- 2901
+  |-- 1498
+    |-- 1026
+      |-- 1000
+        |-- 363
+    
+
+-----------------------------
+./FLAPS -g 12  
+Process with PID 1 is in the same group as PID 12
+Process with PID 2 is in the same group as PID 12
+Process with PID 3 is in the same group as PID 12
+Process with PID 4 is in the same group as PID 12
+Process with PID 5 is in the same group as PID 12
+Process with PID 6 is in the same group as PID 12
+Process with PID 7 is in the same group as PID 12
+Process with PID 8 is in the same group as PID 12
+Process with PID 9 is in the same group as PID 12
+Process with PID 13 is in the same group as PID 12
+Process with PID 14 is in the same group as PID 12
+Process with PID 15 is in the same group as PID 12
+Process with PID 16 is in the same group as PID 12
+Process with PID 17 is in the same group as PID 12
+Process with PID 18 is in the same group as PID 12
+Process with PID 19 is in the same group as PID 12
+Process with PID 20 is in the same group as PID 12
+Process with PID 21 is in the same group as PID 12
+Process with PID 22 is in the same group as PID 12
+Process with PID 23 is in the same group as PID 12
+Process with PID 24 is in the same group as PID 12
+Process with PID 25 is in the same group as PID 12
+Process with PID 26 is in the same group as PID 12
+Process with PID 27 is in the same group as PID 12
+Process with PID 28 is in the same group as PID 12
+Process with PID 29 is in the same group as PID 12
+Process with PID 30 is in the same group as PID 12
+Process with PID 32 is in the same group as PID 12
+Process with PID 33 is in the same group as PID 12
+Process with PID 34 is in the same group as PID 12
+Process with PID 35 is in the same group as PID 12
+Process with PID 36 is in the same group as PID 12
+Process with PID 37 is in the same group as PID 12
+Process with PID 38 is in the same group as PID 12
+Process with PID 39 is in the same group as PID 12
+Process with PID 40 is in the same group as PID 12
+Process with PID 41 is in the same group as PID 12
+Process with PID 42 is in the same group as PID 12
+Process with PID 44 is in the same group as PID 12
+Process with PID 45 is in the same group as PID 12
+Process with PID 46 is in the same group as PID 12
+Process with PID 47 is in the same group as PID 12
+Process with PID 48 is in the same group as PID 12
+Process with PID 49 is in the same group as PID 12
+Process with PID 50 is in the same group as PID 12
+Process with PID 51 is in the same group as PID 12
+Process with PID 52 is in the same group as PID 12
+Process with PID 53 is in the same group as PID 12
+Process with PID 54 is in the same group as PID 12
+Process with PID 56 is in the same group as PID 12
+Process with PID 57 is in the same group as PID 12
+Process with PID 58 is in the same group as PID 12
+Process with PID 59 is in the same group as PID 12
+Process with PID 60 is in the same group as PID 12
+Process with PID 62 is in the same group as PID 12
+Process with PID 64 is in the same group as PID 12
+Process with PID 65 is in the same group as PID 12
+Process with PID 66 is in the same group as PID 12
+Process with PID 69 is in the same group as PID 12
+Process with PID 71 is in the same group as PID 12
+Process with PID 72 is in the same group as PID 12
+Process with PID 73 is in the same group as PID 12
+Process with PID 74 is in the same group as PID 12
+Process with PID 75 is in the same group as PID 12
+Process with PID 76 is in the same group as PID 12
+Process with PID 77 is in the same group as PID 12
+Process with PID 78 is in the same group as PID 12
+Process with PID 79 is in the same group as PID 12
+Process with PID 80 is in the same group as PID 12
+Process with PID 81 is in the same group as PID 12
+Process with PID 82 is in the same group as PID 12
+Process with PID 83 is in the same group as PID 12
+Process with PID 84 is in the same group as PID 12
+Process with PID 86 is in the same group as PID 12
+Process with PID 87 is in the same group as PID 12
+Process with PID 88 is in the same group as PID 12
+Process with PID 89 is in the same group as PID 12
+Process with PID 90 is in the same group as PID 12
+Process with PID 91 is in the same group as PID 12
+Process with PID 93 is in the same group as PID 12
+Process with PID 100 is in the same group as PID 12
+Process with PID 102 is in the same group as PID 12
+Process with PID 103 is in the same group as PID 12
+Process with PID 104 is in the same group as PID 12
+Process with PID 105 is in the same group as PID 12
+Process with PID 106 is in the same group as PID 12
+Process with PID 107 is in the same group as PID 12
+Process with PID 112 is in the same group as PID 12
+Process with PID 114 is in the same group as PID 12
+Process with PID 195 is in the same group as PID 12
+Process with PID 206 is in the same group as PID 12
+Process with PID 207 is in the same group as PID 12
+Process with PID 232 is in the same group as PID 12
+Process with PID 233 is in the same group as PID 12
+Process with PID 234 is in the same group as PID 12
+Process with PID 235 is in the same group as PID 12
+Process with PID 237 is in the same group as PID 12
+Process with PID 238 is in the same group as PID 12
+Process with PID 272 is in the same group as PID 12
+Process with PID 291 is in the same group as PID 12
+Process with PID 292 is in the same group as PID 12
+Process with PID 304 is in the same group as PID 12
+Process with PID 305 is in the same group as PID 12
+Process with PID 306 is in the same group as PID 12
+Process with PID 307 is in the same group as PID 12
+Process with PID 308 is in the same group as PID 12
+Process with PID 309 is in the same group as PID 12
+Process with PID 310 is in the same group as PID 12
+Process with PID 311 is in the same group as PID 12
+Process with PID 312 is in the same group as PID 12
+Process with PID 313 is in the same group as PID 12
+Process with PID 314 is in the same group as PID 12
+Process with PID 320 is in the same group as PID 12
+Process with PID 321 is in the same group as PID 12
+Process with PID 322 is in the same group as PID 12
+Process with PID 363 is in the same group as PID 12
+Process with PID 364 is in the same group as PID 12
+Process with PID 365 is in the same group as PID 12
+Process with PID 423 is in the same group as PID 12
+Process with PID 459 is in the same group as PID 12
+Process with PID 465 is in the same group as PID 12
+Process with PID 523 is in the same group as PID 12
+Process with PID 524 is in the same group as PID 12
+Process with PID 569 is in the same group as PID 12
+Process with PID 570 is in the same group as PID 12
+Process with PID 572 is in the same group as PID 12
+Process with PID 580 is in the same group as PID 12
+Process with PID 640 is in the same group as PID 12
+Process with PID 642 is in the same group as PID 12
+Process with PID 670 is in the same group as PID 12
+Process with PID 671 is in the same group as PID 12
+Process with PID 682 is in the same group as PID 12
+Process with PID 683 is in the same group as PID 12
+Process with PID 685 is in the same group as PID 12
+Process with PID 686 is in the same group as PID 12
+Process with PID 687 is in the same group as PID 12
+Process with PID 693 is in the same group as PID 12
+Process with PID 694 is in the same group as PID 12
+Process with PID 725 is in the same group as PID 12
+Process with PID 756 is in the same group as PID 12
+Process with PID 757 is in the same group as PID 12
+Process with PID 811 is in the same group as PID 12
+Process with PID 827 is in the same group as PID 12
+Process with PID 840 is in the same group as PID 12
+Process with PID 871 is in the same group as PID 12
+Process with PID 981 is in the same group as PID 12
+Process with PID 1060 is in the same group as PID 12
+Process with PID 1207 is in the same group as PID 12
+Process with PID 1269 is in the same group as PID 12
+Process with PID 1408 is in the same group as PID 12
+Process with PID 1423 is in the same group as PID 12
+Process with PID 1429 is in the same group as PID 12
+Process with PID 1582 is in the same group as PID 12
+Process with PID 1885 is in the same group as PID 12
+Process with PID 2382 is in the same group as PID 12
+Process with PID 3062 is in the same group as PID 12
+Process with PID 3067 is in the same group as PID 12
+Process with PID 3068 is in the same group as PID 12
+
+------------------------------------------------------
+
+./FLAPS -u 1000
+Process ID: 1423
+Process ID: 1429
+Process ID: 1444
+Process ID: 1445
+Process ID: 1446
+Process ID: 1448
+Process ID: 1450
+Process ID: 1459
+Process ID: 1498
+Process ID: 1502
+Process ID: 1515
+Process ID: 1532
+Process ID: 1582
+Process ID: 1605
+Process ID: 1612
+Process ID: 1622
+Process ID: 1623
+Process ID: 1636
+Process ID: 1646
+Process ID: 1648
+Process ID: 1683
+Process ID: 1713
+Process ID: 1742
+Process ID: 1749
+Process ID: 1779
+Process ID: 1789
+Process ID: 1801
+Process ID: 1821
+Process ID: 1822
+Process ID: 1823
+Process ID: 1826
+Process ID: 1827
+Process ID: 1828
+Process ID: 1832
+Process ID: 1834
+Process ID: 1837
+Process ID: 1841
+Process ID: 1842
+Process ID: 1844
+Process ID: 1845
+Process ID: 1846
+Process ID: 1849
+Process ID: 1854
+Process ID: 1861
+Process ID: 1867
+Process ID: 1870
+Process ID: 1873
+Process ID: 1877
+Process ID: 1935
+Process ID: 1984
+Process ID: 2024
+Process ID: 2025
+Process ID: 2028
+Process ID: 2032
+Process ID: 2070
+Process ID: 2071
+Process ID: 2081
+Process ID: 2085
+Process ID: 2104
+Process ID: 2113
+Process ID: 2123
+Process ID: 2132
+Process ID: 2138
+Process ID: 2148
+Process ID: 2158
+Process ID: 2228
+Process ID: 2314
+Process ID: 2320
+Process ID: 2321
+Process ID: 2322
+Process ID: 2324
+Process ID: 2326
+Process ID: 2332
+Process ID: 2333
+Process ID: 2335
+Process ID: 2355
+Process ID: 2357
+Process ID: 2361
+Process ID: 2376
+Process ID: 2382
+Process ID: 2385
+Process ID: 2390
+Process ID: 2467
+Process ID: 2507
+Process ID: 2517
+Process ID: 2583
+Process ID: 2594
+Process ID: 2614
+Process ID: 2635
+Process ID: 2680
+Process ID: 2787
+Process ID: 2791
+Process ID: 2842
+Process ID: 2875
+Process ID: 2901
+Process ID: 2978
+Process ID: 3115
+
+
+-----------------
+
+./FLAPS -U 1000
+Processes for user with effective UID 1000:
+PID: 1423
+PID: 1429
+PID: 1444
+PID: 1445
+PID: 1446
+PID: 1448
+PID: 1450
+PID: 1459
+PID: 1498
+PID: 1502
+PID: 1515
+PID: 1532
+PID: 1582
+PID: 1605
+PID: 1612
+PID: 1622
+PID: 1623
+PID: 1636
+PID: 1646
+PID: 1648
+PID: 1683
+PID: 1713
+PID: 1742
+PID: 1749
+PID: 1779
+PID: 1789
+PID: 1801
+PID: 1821
+PID: 1822
+PID: 1823
+PID: 1826
+PID: 1827
+PID: 1828
+PID: 1832
+PID: 1834
+PID: 1837
+PID: 1841
+PID: 1842
+PID: 1844
+PID: 1845
+PID: 1846
+PID: 1849
+PID: 1854
+PID: 1861
+PID: 1867
+PID: 1870
+PID: 1873
+PID: 1877
+PID: 1935
+PID: 1984
+PID: 2024
+PID: 2025
+PID: 2028
+PID: 2032
+PID: 2070
+PID: 2071
+PID: 2081
+PID: 2085
+PID: 2104
+PID: 2113
+PID: 2123
+PID: 2132
+PID: 2138
+PID: 2148
+PID: 2158
+PID: 2228
+PID: 2314
+PID: 2320
+PID: 2321
+PID: 2322
+PID: 2324
+PID: 2326
+PID: 2332
+PID: 2333
+PID: 2335
+PID: 2355
+PID: 2357
+PID: 2361
+PID: 2376
+PID: 2382
+PID: 2385
+PID: 2390
+PID: 2467
+PID: 2507
+PID: 2517
+PID: 2583
+PID: 2594
+PID: 2614
+PID: 2635
+PID: 2680
+PID: 2787
+PID: 2791
+PID: 2842
+PID: 2875
+PID: 2901
+PID: 2978
+PID: 3123
+
+
+
